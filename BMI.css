@@ -1,0 +1,53 @@
+body{
+	background:  no-repeat center center fixed;
+	background-image: url("img/architecture-black-and-white-bridge-164357.jpg");
+	font-family: 'Oswald', sans-serif;
+	background-size: cover;
+	color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.styling{
+	margin-top: 10px;
+}
+
+#form-styling{
+	margin-top: 100px;
+	position: absolute;
+	left: 50%;
+	margin-left: -76px;
+	width:200px;
+}
+
+#relative{
+	position: relative;
+}
+
+#align-button{
+	position: absolute;
+	margin-top: 200px;
+	left: 50%;
+	margin-left: -60px;
+}
+
+#align-h3{
+
+	margin-top: 270px;
+	text-align: center;
+}
+
+.decorate{
+	border-radius: 5px;
+}
+
+.sample{
+	width: 400px;
+	position:absolute;
+	background-color:black;
+	border-radius:10px;
+	text-align:center;
+	left:50%;
+	margin-left:-200px;
+	margin-top: 270px;
+}
